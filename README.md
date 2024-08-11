@@ -47,3 +47,5 @@ To make stock market predictions, these technical indicators are used in finance
 **EWMA 7, 50, 200**
 
 **Price changes (1-5 days)**
+
+
